@@ -45,9 +45,9 @@ python main.py
 
 ## Controls
 
-START: Begin timing
-STOP: Pause the timer (can be resumed with START)
-RESET: Stop the timer and reset to 00:00:00.00
+- START: Begin timing
+- STOP: Pause the timer (can be resumed with START)
+- RESET: Stop the timer and reset to 00:00:00.00
 
 ---
 
