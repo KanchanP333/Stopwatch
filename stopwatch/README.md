@@ -15,7 +15,7 @@ A sleek, functional stopwatch built using Python and the **PyQt5** GUI framework
 
 ## 🖥️ Demo
 
-> ![Stopwatch Demo](screenshot.png)  
+> ![Stopwatch Demo](digitalClockScreenshot.png)  
 > *Add a screenshot of your stopwatch UI here*
 
 ---
