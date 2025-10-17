@@ -1,4 +1,5 @@
 #Python PyQt5 Stopwatch
+#Testing the stopwatch
 
 import sys #Used to handle comand line arguments
 from PyQt5.QtWidgets import (QApplication, QWidget, QLabel, QPushButton, 
